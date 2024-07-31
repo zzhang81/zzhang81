@@ -1,6 +1,6 @@
 # Hello, I'm Jason Zhang 👋
 
-I am a Research Assistant at the Department of Earth and Atmospheric Sciences, University of Houston. My research focuses on Rock Physics and Seismology.
+I am a Research Assistant at the Department of Earth and Atmospheric Sciences, University of Houston. My research focuses on Rock Physics and Seismology. Thank you for visiting my GitHub profile!
 
 
 
@@ -22,8 +22,15 @@ I am a Research Assistant at the Department of Earth and Atmospheric Sciences, U
 
 ## Projects
 
-- **Seismic Data Processing Database:** Developed a database based on PostgreSQL for efficient seismic data processing.
+- **Seismic Data Processing Database:** This is a Postgresql-based database used to efficiently process and store earthquake data.
+- **FDSN Viewer:** It can be used to quickly browse and edit the information in FDSN Station xml, and view the waveform data in the data file.
 
+
+## Donate
+
+We are committed to studying earthquake phenomena and working to reduce the impact of natural disasters on human and animal life. Your donation will greatly help our laboratory's research projects.
+
+To make a donation for our lab, please contact me, and I will gladly recommend you to my laboratory leader. You can also explore [more ways to donate](https://uh.edu/nsm/earth-atmospheric/giving/giving-to-eas/) on UH’s website. The UH's research is dedicated to advancing human progress as much as possible.
 
 
 ## Get in Touch
@@ -33,7 +40,6 @@ I am a Research Assistant at the Department of Earth and Atmospheric Sciences, U
 
 
 
-Thank you for visiting my GitHub profile!
 
 <!---
 zzhang81/zzhang81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
