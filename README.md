@@ -23,7 +23,7 @@ I am a Research Assistant at the Department of Earth and Atmospheric Sciences, U
 ## Projects
 
 - **Seismic Database:** This is a Postgresql-based database used to efficiently process and store seismic data.
-- **FDSN Viewer:** It can be used to quickly browse and edit the information in FDSN Station xml, and view the waveform data in the data file.
+- **QuakeTracker:** An open source software for tracking earthquakes, and view the waveform data.
 
 
 ## Donate
